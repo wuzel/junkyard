@@ -5,3 +5,5 @@ Step 3  npm i -D nodemon  (monitors when file is changed and restarts)
 Step 4 modify json - under scripts "start": "node index.js" (now server starts on command 'npm start')
 Step 5 modigy json - scripts "dev": "nodemon index.js"; 
 Step 6 "devDependencies" : { "nodemon": "^1.9.1" },
+
+for info about working with github in browser - see https://guides.github.com/activities/hello-world/
