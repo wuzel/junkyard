@@ -1,0 +1,22 @@
+{
+  "name": "LearnNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "multer": "^1.1.0"
+  },
+  "devDependencies": {
+      "nodemon": "^1.9.1" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

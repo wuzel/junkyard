@@ -1,0 +1,7 @@
+from https://egghead.io/lessons/node-js-getting-started-with-express-up-and-running?series=getting-started-with-express-js
+Step 1  npm init -y (adds json package)
+Step 2  npm i -S express  (make sure expres  is linked to json)
+Step 3  npm i -D nodemon  (monitors when file is changed and restarts)
+Step 4 modify json - under scripts "start": "node index.js" (now server starts on command 'npm start')
+Step 5 modigy json - scripts "dev": "nodemon index.js"; 
+Step 6 "devDependencies" : { "nodemon": "^1.9.1" },
